@@ -66,13 +66,13 @@ global.nameown = 'B A Y U - 𝓨𝓪𝓷' // Nama Owner
 /*============== STAFF ==============*/
 global.owner = [
   ['6283183321692'],
-  ['62895386445819'],
+  ['6283183321692'],
   ['6283183321692'],
   ['6283183321692', 'B O T - M D', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
-global.mods = [] // Want some help?
-global.prems = [] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
+global.mods = ['6283183321692'] // Want some help?
+global.prems = ['6283183321692'] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
 
 
 /*============== API ==============*/
