@@ -45,10 +45,10 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/Xiao_yan_21' //Link Instagrammu
-global.sgh = 'https://github.com/ImYanXiao' //Link Githubmu
+global.sig = '-' //Link Instagrammu
+global.sgh = '-' //Link Githubmu
 global.sgc = 'https://chat.whatsapp.com/DyBMXDw1IshFM9z0ZHZNlR'
-global.sdc = '-' //Isi Pake Link Discordmu Kalo Gada Biarin aja
+global.sdc = 'https://wa.me/212775928935' //Isi Pake Link Discordmu Kalo Gada Biarin aja
 global.snh = 'https://nhentai.net/g/HaramTod🗿' //Hmmm, Ini boleh kalian isi terserah :v
 
 /*============== PAYMENT ==============*/
@@ -59,8 +59,8 @@ global.psaweria = '-' //Link Saweriamu Kalo Nggada Ketik - aja
 /*============== NOMOR ==============*/
 global.nomorbot = '62895386445819' //Nomor Bot
 global.nomorown = '6283183321692' //Nomor Owner
-global.namebot = 'B O T - M D' //Nama Bot
-global.nameown = 'B A Y U - 𝓨𝓪𝓷' // Nama Owner
+global.namebot = '✰𝔹𝕆𝕋𓇽𝕄𝕌𝕃𝕋𝕀 𝔻𝔼𝕍𝕀ℂ𝔼✰' //Nama Bot
+global.nameown = '☞︎︎︎«««𓇽««✰𝙱𝚢𝚎✰»»𓇽»»»☜︎︎︎' // Nama Owner
 
 
 /*============== STAFF ==============*/
@@ -113,7 +113,7 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 B O T -M D 」' //Main Watermark
+global.wm = '                「 ✰𝔹𝕆𝕋𓇽𝕄𝕌𝕃𝕋𝕀 𝔻𝔼𝕍𝕀ℂ𝔼✰ 」' //Main Watermark
 global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘B O T - M D˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
 global.wm3 = '⫹⫺ 𝗕 𝗢 𝗧 - M D'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
@@ -155,7 +155,7 @@ global.dmenub2 = '┊' //body for info cmd on Default menu
 global.dmenuf = '┗––––––––––✦' //footer
 
 // COMMAND MENU
-global.dashmenu = '┅━━━━━═┅═❏ *ღ DASHBOARD ღ* ❏═┅═━━━━━┅'
+global.dashmenu = '┅━━━━━═┅═❏ * DASHBOARD * ❏═┅═━━━━━┅'
 global.cmenut = '❏––––––『'                       //top
 global.cmenuh = '』––––––'                        //header
 global.cmenub = '┊❀'                            //body
